@@ -9,6 +9,16 @@ With this website:
 1. Guardians/students can find tutors as per their requirements easily.
 2. This website can also be used by many students who love teaching as a part time job.
 
+How the website looks like:
+![](Images/img1.PNG)
+![](Images/img2.PNG)
+![](Images/img3.PNG)
+![](Images/img4.PNG)
+![](Images/img5.PNG)
+![](Images/img6.PNG)
+![](Images/img7.PNG)
+![](Images/img8.PNG)
+
 
 **Installation Guide:**
 1. Download the repository from github.
